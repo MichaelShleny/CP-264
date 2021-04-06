@@ -1,5 +1,0 @@
-[database]
-user = dcris
-password = dcris
-host = hopper.wlu.ca
-database = dcris
